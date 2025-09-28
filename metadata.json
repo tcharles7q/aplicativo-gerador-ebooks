@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de E-books com IA",
+  "description": "Uma aplicação web para gerar e-books completos, com texto e imagens, a partir de uma simples ideia. Permite edição interativa e exportação para PDF.",
+  "requestFramePermissions": []
+}
